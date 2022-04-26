@@ -12,6 +12,6 @@ jobs:
       - name: Echo the message
         run: |
           echo "Hola educode7!"
-      - name: Dime la fecha
+      - name: Dime la fecha de peru
         run: date
       - run: ls -l
